@@ -134,27 +134,27 @@ def meditationBegin():
   txt = guided_phrases[2]
   text_to_speech(txt)
   text_fade_in(txt)
-  time.sleep(1)
+  time.sleep(60)
 
   txt = guided_phrases[3]
   text_to_speech(txt)
   text_fade_in(txt)
-  time.sleep(1)
+  time.sleep(60)
 
   txt = guided_phrases[4]
   text_to_speech(txt)
   text_fade_in(txt)
-  time.sleep(1)
+  time.sleep(60)
 
   txt = guided_phrases[5]
   text_to_speech(txt)
   text_fade_in(txt)
-  time.sleep(1)
+  time.sleep(60)
 
   txt = guided_phrases[6]
   text_to_speech(txt)
   text_fade_in(txt)
-  time.sleep(1)
+  time.sleep(60)
 
   txt = guided_phrases[7]
   text_to_speech(txt)
@@ -163,22 +163,22 @@ def meditationBegin():
   txt = guided_phrases[8]
   text_to_speech(txt)
   text_fade_in(txt)
-  time.sleep(1)
+  time.sleep(60)
 
   txt = guided_phrases[9]
   text_to_speech(txt)
   text_fade_in(txt)
-  time.sleep(1)
+  time.sleep(60)
 
   txt = guided_phrases[10]
   text_to_speech(txt)
   text_fade_in(txt)
-  time.sleep(1)
+  time.sleep(60)
 
   txt = guided_phrases[11]
   text_to_speech(txt)
   text_fade_in(txt)
-  time.sleep(1)
+  time.sleep(60)
 
 while running:
   # Check for events
